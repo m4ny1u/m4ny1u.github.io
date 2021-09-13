@@ -31,6 +31,30 @@
 > [客户端软件安全工程师-安全与风控](https://jobs.bytedance.com/campus/position/6994773648808626469/detail) - 上海  
 > 这也太多了wc，直接上官网查吧  
 >>[https://jobs.bytedance.com/campus/position?keywords=&category=&location=&type=2&job_hot_flag=](https://jobs.bytedance.com/campus/position?keywords=&category=&location=&type=2&job_hot_flag=)  
+
+### 京东  
+> [安全工程师](http://campus.jd.com/#/details?id=1528) - 地点不详  
+> [安全工程师](http://campus.jd.com/#/details?id=1482) - 北京 上海  
+
+### 美团  
+> [安全工程师](https://campus.meituan.com/jobs?jobFamily=1&jobId=4129&jobType=1&pageNo=1) - 北京 上海  
+
+### 网易  
+> [安全工程师](https://campus.163.com/app/detail/index?id=1508&projectId=39) - 杭州  
+
+### 小米  
+> [安全攻防工程师](https://app.mokahr.com/campus_apply/xiaomi/286#/job/57d9f5cc-917f-4858-a143-cf975fa5d077) - 北京  
+> [IoT安全研究工程师](https://app.mokahr.com/campus_apply/xiaomi/286#/job/731dfdee-206b-4cfa-b6b3-e981b93c9a69) - 武汉  
+
+### 快手  
+> [安全工程师](https://campus.kuaishou.cn/recruit/campus/e/#/campus/job-info/1986) - 北京  
+
+
+### 深信服  
+> [攻防研究工程师](https://app.mokahr.com/campus_apply/sangfor/27944#/job/f69d6139-214d-4d98-92b2-50aa6a3a1172) - 深圳 北京 南京  
+> [漏洞研究工程师](https://app.mokahr.com/campus_apply/sangfor/27944#/job/b22a8741-1f85-4c56-ba55-6b1855d63775) - 长沙 南京 成都 北京 深圳  
+> [逆向分析工程师](https://app.mokahr.com/campus_apply/sangfor/27944#/job/f4502c06-ee14-4daa-919d-925c12e53e8d) - 长沙 南京 成都 北京 深圳  
+
   
 ------
 
@@ -43,7 +67,19 @@
 > [基础安全攻防技术研究](https://talent.alibaba.com/campus-project/922?spm=a1z9iw.13825115.0.0.631e3ae7oQcuKV) - 杭州 北京  
 
 ### 字节跳动  
-> **有的，待更新**  
+> 官网[https://jobs.bytedance.com/campus/position?keywords=&category=6704216109274368264&location=&project=&type=3&job_hot_flag=&current=1&limit=10](https://jobs.bytedance.com/campus/position?keywords=&category=6704216109274368264&location=&project=&type=3&job_hot_flag=&current=1&limit=10)  
+
+### 小米  
+> [安全工程师（隐私合规方向）实习生](https://app.mokahr.com/campus_apply/xiaomi/286#/job/4bfb10be-1405-43d1-bb3d-5fa1b28a8d9a) - 北京  
+
+### 快手  
+> [安全工程师](https://zhaopin.kuaishou.cn/recruit/e/#/official/trainee/job-info/2979) - 北京  
+
+
+### 深信服  
+> [安全运营实习生](https://app.mokahr.com/campus_apply/sangfor/6146#/job/60966991-be5c-42fe-80ef-cd342c3317b3) - 深圳 长沙  
+> [威胁分析实习生](https://app.mokahr.com/campus_apply/sangfor/6146#/job/43bde4ea-e7e6-4669-988b-798b59dd669f) - 深圳 长沙  
+
 
 ------  
-**以上甲方，后面会继续更新，会有乙方。**
+**不定期更新。**
